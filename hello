@@ -1,0 +1,8 @@
+import java.io.*;
+class hello
+{
+public static void main (String arg[])throws exception
+{
+System.out.println("Hello World");
+}
+}
